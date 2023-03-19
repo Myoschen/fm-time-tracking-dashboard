@@ -50,6 +50,7 @@ function TrackingCard({ intent, title, type, timeframe }: Props) {
           <button
             className="fill-pale-blue hover:fill-white transition-colors duration-300 ease-in-out"
             type="button"
+            aria-label="more"
           >
             <svg width="21" height="5" xmlns="http://www.w3.org/2000/svg">
               <path
