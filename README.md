@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Myoschen/time-tracking-dashboard](https://github.com/Myoschen/time-tracking-dashboard)
-- Live Site URL: []()
+- Solution URL: [https://github.com/Myoschen/fm-time-tracking-dashboard](https://github.com/Myoschen/fm-time-tracking-dashboard)
+- Live Site URL: [https://fm-time-tracking-dashboard-rosy.vercel.app/](https://fm-time-tracking-dashboard-rosy.vercel.app/)
 
 ## My process
 
@@ -50,7 +50,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com)
+- [Context | React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/context/)
 
 ## Author
 
