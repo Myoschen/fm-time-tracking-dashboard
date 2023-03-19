@@ -1,9 +1,9 @@
-import workSvg from '@/assets/images/icon-work.svg';
-import playSvg from '@/assets/images/icon-play.svg';
-import socialSvg from '@/assets/images/icon-social.svg';
 import exerciseSvg from '@/assets/images/icon-exercise.svg';
-import studySvg from '@/assets/images/icon-study.svg';
+import playSvg from '@/assets/images/icon-play.svg';
 import selfCareSvg from '@/assets/images/icon-self-care.svg';
+import socialSvg from '@/assets/images/icon-social.svg';
+import studySvg from '@/assets/images/icon-study.svg';
+import workSvg from '@/assets/images/icon-work.svg';
 
 interface Props {
   type: 'work' | 'play' | 'social' | 'exercise' | 'study' | 'self care';

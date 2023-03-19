@@ -47,7 +47,10 @@ function TrackingCard({ intent, title, type, timeframe }: Props) {
       <div className="relative px-6 py-8 -mt-8 rounded-xl bg-dark-blue hover:bg-desaturated-blue transition-colors duration-300 ease-in-out">
         <div className="flex justify-between items-center mb-4">
           <h2 className="font-medium">{title}</h2>
-          <button className="fill-pale-blue hover:fill-white transition-colors duration-300 ease-in-out">
+          <button
+            className="fill-pale-blue hover:fill-white transition-colors duration-300 ease-in-out"
+            type="button"
+          >
             <svg width="21" height="5" xmlns="http://www.w3.org/2000/svg">
               <path
                 d="M2.5 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Zm8 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Zm8 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Z"

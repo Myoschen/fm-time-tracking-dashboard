@@ -1,9 +1,9 @@
-import ProfileCard from './ProfileCard';
-import TrackingCard from './TrackingCard';
 import avatar from '@/assets/images/image-jeremy.png';
+import { useTimeframe } from '@/context/timeframe';
 import dashboardData from '@/data.json';
 import { Intent } from '@/types';
-import { useTimeframe } from '@/context/timeframe';
+import ProfileCard from './ProfileCard';
+import TrackingCard from './TrackingCard';
 
 function Dashboard() {
   const { timeframe } = useTimeframe();

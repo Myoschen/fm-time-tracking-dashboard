@@ -1,5 +1,5 @@
+import { createContext, ReactNode, useContext, useState } from 'react';
 import { Timeframe } from '@/types';
-import { useContext, createContext, useState, ReactNode } from 'react';
 
 interface TimeframeContextType {
   timeframe: Timeframe;
